@@ -30,4 +30,4 @@ Our primary project this semester is **Rent-A-Tool**, a comprehensive desktop ap
 
 ### 📬 Connect With Us
 * **Organization:** Team Nexus
-* **Project Repository:** [1st-Year-2nd-Semester-Project](https://github.com/1st-Year-2nd-Semester-Project)
+* **Project Repository:** [Rene-A-Tool](https://github.com/1st-Year-2nd-Semester-Project/Rent-A-Tool)
